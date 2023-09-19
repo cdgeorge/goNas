@@ -19,6 +19,7 @@ sudo -u plex bash
 
 ```
 pms --add-section Movie --type 1 --location /media/cdg/T7/MyPassport/Media/DVDs/Movie/ --lang dan
+pms --add-section Tv --type 2 --location /media/cdg/T7/MyPassport/Media/DVDs/Tv/ --lang dan
 ```
 
 # Sources
