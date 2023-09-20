@@ -27,3 +27,4 @@ pms --add-section Tv --type 2 --location /media/cdg/T7/MyPassport/Media/DVDs/Tv/
 - https://pimylifeup.com/raspberry-pi-plex-server/
 - https://github.com/cdgeorge/ups3
 - https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi
+- https://pimylifeup.com/raspberry-pi-network-manager/ and http://www.intellamech.com/RaspberryPi-projects/rpi_nmcli.html 
